@@ -43,6 +43,24 @@ h1.subtitle {
   float: left;  
   font-size: 40px;}
 
+  //medium+ screen sizes
+@media (min-width:1100px) {
+    .desktop-only {
+        display:block !important;
+    }
+}
+ 
+//small screen sizes
+@media (max-width: 1099px) {
+    .mobile-only {
+        display:block !important;
+    }
+ 
+    .desktop-only {
+        display:none !important;
+    }
+}
+
 @-webkit-keyframes move-up {
   0% {
     top: 25px;
