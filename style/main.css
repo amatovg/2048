@@ -7,7 +7,7 @@ html, body {
   font-family: "Clear Sans", "Helvetica Neue", Arial, sans-serif;
   font-family: "Whitney SSm A","Whitney SSm B","Helvetica Neue",Helvetica,Arial,sans-serif;
   font-size: 18px;
-  background: #dddddd  center; <!-- Or just white works as well --!>
+  background: #9cc2d2 url(../img/itc-background.png) center; <!-- Or just white works as well --!>
   background-repeat: no-repeat;
   background-attachment: fixed;
 }
@@ -42,13 +42,6 @@ h1.title {
 h1.subtitle {
   float: left;  
   font-size: 40px;}
-
-  //medium+ screen sizes
-@media screen and (max-width: 1100px) {
-  .desktop-only{
-    visibility: hidden;
-  }
-}
 
 @-webkit-keyframes move-up {
   0% {
