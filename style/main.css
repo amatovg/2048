@@ -7,7 +7,7 @@ html, body {
   font-family: "Clear Sans", "Helvetica Neue", Arial, sans-serif;
   font-family: "Whitney SSm A","Whitney SSm B","Helvetica Neue",Helvetica,Arial,sans-serif;
   font-size: 18px;
-  background: #9cc2d2 url(../img/background.gif) center; <!-- Or just white works as well --!>
+  background: #dddddd  center; <!-- Or just white works as well --!>
   background-repeat: no-repeat;
   background-attachment: fixed;
 }
@@ -382,37 +382,37 @@ hr {
     font-size: 16px; 
     color: #354b59;}
   .tile.tile-2 .tile-inner {
-    background: url('http://www.chicagonow.com/my-sports-complex/files/2012/06/e-1.jpg');
+    background: url(../img/itc-2.png);
     background-size: 100%;
     color: rgba(0,0,0,0);
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-4 .tile-inner {
-    background: url('http://static.comicvine.com/uploads/scale_medium/3/38919/807916-c_3po_and_r2_d2.jpg');
+    background: url(../img/itc-4.png);
     background-size: 100%;
     color: rgba(0,0,0,0);
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0), inset 0 0 0 1px rgba(255, 255, 255, 0); }
   .tile.tile-8 .tile-inner {
-    background: url('https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQItw1LxfwNOt3Apzo5zoaWmG234T6w-lzadGCZo0W6uMxc2l5Ymw');
+    background: url(../img/itc-8.png);
     background-size: 100%;
     color: rgba(0,0,0,0);
     font-weight: medium;
     font-size: 11px;
   }
   .tile.tile-16 .tile-inner {
-    background: url('http://media.comicbook.com/wp-content/uploads/2012/11/lando-calrissian.jpg');
+    background: url(../img/itc-16.png);
     background-size: 100%;
     color: rgba(0,0,0,0);
     font-weight: medium;
     font-size: 10px;
   }
   .tile.tile-32 .tile-inner {
-    background: url('http://img4.wikia.nocookie.net/__cb20080815045819/starwars/images/thumb/7/73/Chewbaccaheadshot.jpg/400px-Chewbaccaheadshot.webp');
+    background: url(../img/itc-32.png);
     background-size: 100%;
     color: rgba(0,0,0,0);
     font-size: 14px;
   }
   .tile.tile-64 .tile-inner {
-    background: url('http://img2.wikia.nocookie.net/__cb20100317190224/starwars/images/thumb/d/db/Leia_Organa.jpg/180px-Leia_Organa.webp');
+    background: url(../img/itc-64.png);
     background-size: 100%;
     color: rgba(0,0,0,0);
     font-size: 14px;
@@ -420,7 +420,7 @@ hr {
   }
   .tile.tile-128 .tile-inner {
     font-weight: medium;
-    background: url('http://img1.wikia.nocookie.net/__cb20100129155042/starwars/images/thumb/0/01/Hansoloprofile.jpg/400px-Hansoloprofile.jpg');
+    background: url(../img/itc-128.png);
     background-size: 100%;
     color: rgba(0,0,0,0);
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.2381), inset 0 0 0 1px rgba(255, 255, 255, 0.14286);
@@ -429,7 +429,7 @@ hr {
       .tile.tile-128 .tile-inner {
         font-size: 12px; } }
   .tile.tile-256 .tile-inner {
-    background: url('http://s3.amazonaws.com/rapgenius/1345598281_Episode_4_Luke_Skywalker_1.jpg');
+    background: url(../img/itc-256.png);
     background-size: 100%;
     color: rgba(0,0,0,0);
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.31746), inset 0 0 0 1px rgba(255, 255, 255, 0.19048);
@@ -438,7 +438,7 @@ hr {
       .tile.tile-256 .tile-inner {
         font-size: 16px; } }
   .tile.tile-512 .tile-inner {
-    background: url('http://upload.wikimedia.org/wikipedia/en/3/32/Ben_Kenobi.png');
+    background: url(../img/itc-512.png);
     background-size: 100%;
     color: rgba(0,0,0,0);
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.39683), inset 0 0 0 1px rgba(255, 255, 255, 0.2381);
@@ -447,7 +447,7 @@ hr {
       .tile.tile-512 .tile-inner {
         font-size: 13px; } }
   .tile.tile-1024 .tile-inner {
-    background: url('http://www.naaapcincy.org/wp-content/uploads/sites/4/2014/05/Yoda.jpg');
+    background: url(../img/itc-1024.gif);
     background-size: 100%;
     color: rgba(0,0,0,0);
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.47619), inset 0 0 0 1px rgba(255, 255, 255, 0.28571);
@@ -456,7 +456,7 @@ hr {
       .tile.tile-1024 .tile-inner {
         font-size: 10px; } }
   .tile.tile-2048 .tile-inner {
-    background: url('http://38.media.tumblr.com/tumblr_ljjqycUarT1qimkj6o1_400.gif');
+    background: url(../img/itc-2048.png);
     background-size: 100%;
     color: rgba(0,0,0,0);
     box-shadow: 0 0 30px 10px rgba(243, 215, 116, 0.55556), inset 0 0 0 1px rgba(255, 255, 255, 0.33333);
